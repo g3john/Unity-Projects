@@ -1,3 +1,7 @@
+Side Projects
+- Pupper Run
+- Tetris
+
 Student collaborations
 - Sizis (Check out https://www.youtube.com/watch?v=SFJVkFug37o)
 - FloorIsLava
@@ -8,5 +12,4 @@ Unity Tutorials
 - Survivor Shooter
 - Tanks
 
-Side Projects
-- Tetris
+
